@@ -1,9 +1,4 @@
                 {
                     "items": ["geeksforgeeks", "gfg",
                     "iamageek" ,"how to become a geek?"],
-                    "states": ["uf": "AC",
-      "name": "Acre",
-      "cities": [
-        "Acrelândia",
-        "Assis Brasil"]
-                }
+                    "states": "oi"}
